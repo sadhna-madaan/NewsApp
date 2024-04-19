@@ -1,0 +1,119 @@
+{
+  "status": "ok",
+  "totalResults": 11,
+  "articles": [
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "The Associated Press",
+      "title": "US fighter jets to fly over Bosnia in a sign of support as Serbs call for secession",
+      "description": "Two U.S. fighter jets will fly over Bosnia in a demonstration of support for the Balkan country’s integrity in the face of increasingly secessionist policies of the Bosnian Serb pro-Russia leader Milorad Dodik",
+      "url": "https://abcnews.go.com/International/wireStory/us-fighter-jets-fly-bosnia-sign-support-country-106191399",
+      "urlToImage": "https://i.abcnewsfe.com/a/1eaba74c-5388-4ab1-8244-baf1449d3ca2/wirestory_46410b3c296b768f68a7c90bed99eb2a_16x9.jpg?w=992",
+      "publishedAt": "2024-01-08T14:14:26Z",
+      "content": "SARAJEVO, Bosnia-Herzegovina -- Two U.S. fighter jets are set to fly over Bosnia on Monday in a demonstration of support for the Balkan country's integrity in the face of increasingly secessionist po… [+2766 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "US fighter jets to fly over Bosnia in warning to 'secessionist' Serbs",
+      "description": "Two F-16 fighter jets will fly over Bosnia on Monday to underline U.S. support for its territorial integrity against \"secessionist activity\" by Serbs at odds with the country's 1990s Dayton peace accords, the U.S. embassy in Sarajevo said.",
+      "url": "https://www.reuters.com/world/europe/us-fighter-jets-fly-over-bosnia-warning-secessionist-serbs-2024-01-08/",
+      "urlToImage": "https://www.reuters.com/resizer/WiyDeMrpGxXWb00QIw7gy5P2o3I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PSNSKELNUJLWFJPQJWQ2WBZ6DY.jpg",
+      "publishedAt": "2024-01-08T13:39:40Z",
+      "content": "SARAJEVO, Jan 8 (Reuters) - Two F-16 fighter jets will fly over Bosnia on Monday to underline U.S. support for its territorial integrity against \"secessionist activity\" by Serbs at odds with the coun… [+2123 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "BRUCE SCHREINER Associated Press",
+      "title": "Kentucky Democratic Gov. Beshear forms PAC to support candidates across the country",
+      "description": "Democratic Gov. Andy Beshear has announced the formation of a federal political action committee",
+      "url": "https://abcnews.go.com/US/wireStory/kentucky-democratic-gov-andy-beshear-forms-pac-support-106189447",
+      "urlToImage": "https://i.abcnewsfe.com/a/05d573bb-05aa-4c5d-b6fe-3f99a1a39d50/wirestory_4597c2a006ac0757d54eaefe9c65efa2_16x9.jpg?w=992",
+      "publishedAt": "2024-01-08T13:12:45Z",
+      "content": "FRANKFORT, Ky. -- Democratic Gov. Andy Beshear, who defeated Donald Trump-backed rivals twice in Republican-leaning Kentucky, announced the formation of a federal political action committee on Monday… [+2335 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "William Schomberg",
+      "title": "No money? Next UK government's budget is hostage to economy",
+      "description": "Britain's next government will have little room to cut taxes or increase spending - at least according to bleak forecasts from the country's budget office.",
+      "url": "https://www.reuters.com/world/uk/no-money-next-uk-governments-budget-is-hostage-economy-2024-01-08/",
+      "urlToImage": "https://www.reuters.com/resizer/3V3iSjqey9mHR6ALRRJaF2VPxIE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HBTQQWFBBVLURFFOUKLUEE6HRU.jpg",
+      "publishedAt": "2024-01-08T11:44:58Z",
+      "content": "LONDON, Jan 8 (Reuters) - Britain's next government will have little room to cut taxes or increase spending - at least according to bleak forecasts from the country's budget office.\r\nBut if the econo… [+5782 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "The Associated Press",
+      "title": "Heavy wave of Russian missile attacks hit areas throughout Ukraine",
+      "description": "Ukraine came under strong Russian missile attacks that struck near the front lines of fighting in the east as well as in central and western parts of the country",
+      "url": "https://abcnews.go.com/International/wireStory/heavy-wave-russian-missile-attacks-hit-areas-ukraine-106186341",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2024-01-08T08:02:43Z",
+      "content": "KYIV, Ukraine -- Ukraine came under strong Russian missile attacks early Monday that struck near the front lines of fighting in the east as well as in central and western parts of the country, killin… [+1882 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Shiv Sudhakar, Melissa Rudy",
+      "title": "Mask mandates return to hospitals in NYC, several other states amid rise in COVID, flu cases",
+      "description": "New York City public hospitals are joining a growing number of health care facilities in states across the country in reinstituting mask mandates amid a marginal uptick in cases.",
+      "url": "https://www.foxnews.com/health/mask-mandates-return-hospitals-several-states-covid-flu-cases",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/masks-hospital.jpg",
+      "publishedAt": "2024-01-07T12:58:59Z",
+      "content": "Read this article for free!\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you are agreeing… [+6397 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Tom Rabe",
+      "title": "Australian grape growers fear export hit from DP World port industrial dispute",
+      "description": "Australian table grape growers are concerned that long-running industrial action at the country’s ports could delay thousands of tonnes of produce bound for Asia.",
+      "url": "http://www.afr.com/companies/agriculture/australian-grape-growers-fear-export-hit-from-port-dispute-20240104-p5ev83",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_13/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/bcd825b923a492547d545ab2badcd09fdcfa8ecd",
+      "publishedAt": "2024-01-04T06:46:45Z",
+      "content": "Freight and Trade Alliance director Paul Zalai said the industrial action was already causing big delays across the countrys ports, and some ships were forced to drop their cargo and leave before res… [+2408 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Alex Fitzpatrick, Kavya Beheraj",
+      "title": "The country's new business hot spots, mapped",
+      "description": "The Southeastern U.S. is a hotbed of new business activity.",
+      "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+      "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+      "publishedAt": "2023-07-13T09:30:06Z",
+      "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Ioanna Lykiardopoulou",
+      "title": "Rapid delivery giant Getir quits France, citing regulation hurdles",
+      "description": "Quick commerce platform Getir is bidding adieu to the French market — less than two years since starting its operations in the country.\r\n\r\nIn a press release sent to AFP, the company ...",
+      "url": "http://thenextweb.com/news/quick-delivery-giant-getir-quits-france",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+      "publishedAt": "2023-06-22T11:21:08Z",
+      "content": "Quick commerce platform Getir is bidding adieu to the French market less than two years since starting its operations in the country.\r\nIn a press release sent to AFP, the company said that it will so… [+1469 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Eamon Barrett",
+      "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+      "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+      "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T10:31:29Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "rte", "name": "RTE" },
+      "author": "RTÉ News",
+      "title": "275,000 appointments made at Penneys this week",
+      "description": "There have been 275,000 appointment slots booked for Penneys stores around the country this week, the retailer has said.",
+      "url": "https://www.rte.ie/news/business/2021/0515/1221782-penneys/",
+      "urlToImage": "https://img.rasset.ie/0016c07f-1600.jpg",
+      "publishedAt": "2021-05-15T10:52:52Z",
+      "content": "There have been 275,000 appointment slots booked for Penneys stores around the country this week, the retailer has said.\r\nPenney's 36 stores opened on an appointment-only basis from last Monday, with… [+577 chars]"
+    }
+  ]
+}
