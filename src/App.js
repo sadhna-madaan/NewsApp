@@ -23,7 +23,6 @@ apiKey=process.env.REACT_APP_NEWS_API;
     <Route exact path="/technology" element={<News pageSize={this.pageSize} apiKey={this.apiKey} country="in" key="technology" category="technology" />} />
   </Routes>
 </Router>
-
       </div>
     );
   }
