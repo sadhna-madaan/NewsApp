@@ -133,7 +133,7 @@ export default class News extends Component {
         > */}
           <div className="container" >
           <div className="row">
-            {!this.state.loading && this.state.articles && articles.map((element) => {
+            {!this.state.loading && this.state.articles && this.state.articles.map((element) => {
               return (
                 <div className="col-md-4" key={element.url}>
                   <NewsItem
